@@ -2,6 +2,7 @@ cassandra:4
 docker.elastic.co/elasticsearch/elasticsearch:7.17.12
 quay.io/minio/minio
 thehiveproject/cortex:3.1.7
+n8nio/n8n
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
