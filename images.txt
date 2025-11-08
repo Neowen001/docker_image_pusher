@@ -8,6 +8,11 @@ wazuh/wazuh-indexer:4.13.1
 wazuh/wazuh-manager:4.13.1
 busybox
 redis:8.2
+ghcr.io/windmill-labs/windmill:main
+postgres:16
+ghcr.io/windmill-labs/windmill-lsp:latest
+ghcr.io/windmill-labs/windmill-multiplayer:latest
+ghcr.io/windmill-labs/caddy-l4:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
